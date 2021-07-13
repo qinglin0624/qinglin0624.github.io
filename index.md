@@ -4,7 +4,7 @@ Hello, I am currently an undergraduate in Duke Kunshan University, with my resea
 
 My research interests include multi-modal behavior analysis, knowledge transfer, and affective computing. 
 
-
+In my spare time I enjoy working and thinking the societal impact side of my research. Outside work I like running, hiking, and music. I had a great time participating in the Berkeley Half Marathon, and being a mezzo-soprano at UC Berkeley University Choir. I also enjoy playing the piano, writing classical Chinese poems from time to time, and being an amateur photographer mostly taking snaps of the lovely nature.
 
 ## Education
 
@@ -14,7 +14,7 @@ B.S. of Data Science
 
 
 ## News
-> "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" is accepted by ICMI 2021
+> "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (coauthor) is accepted by ICMI 2021
 
 > SMIIP Lab league construction
 
