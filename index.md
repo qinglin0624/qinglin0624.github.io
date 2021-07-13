@@ -8,14 +8,12 @@ My research interests include multi-modal behavior analysis, knowledge transfer,
 
 ## Education
 
-__Duke Kunshan University / Duke University__   
-
-`Suzhou, China (2018-2022) `
-
+__Duke Kunshan University / Duke University__   <br>
+`Suzhou, China (2018-2022) ` <br>
 B.S. of Data Science
 
 
-## Recent news
+## News
 > "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" is accepted by ICMI 2021
 
 > SMIIP Lab league construction
