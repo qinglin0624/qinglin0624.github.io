@@ -4,7 +4,7 @@ Hello, I am currently an undergraduate in Duke Kunshan University, with my resea
 
 My research interests include multi-modal behavior analysis, knowledge transfer, and affective computing. 
 
-In my spare time I enjoy working and thinking about the societal impact side of my research. I had a great time working as an undergraduate peer tutor at DKU, and being a soprano at DKU Choir. I also enjoy running, playing the piano from time to time, and being an amateur badminton player outside work. [{\mathbb {$\mapsto$}}](www.github.com)
+In my spare time I enjoy working and thinking about the societal impact side of my research. I had a great time working as an undergraduate peer tutor at DKU, and being a soprano at DKU Choir. I also enjoy running, playing the piano from time to time, and being an amateur badminton player outside work.
 
 ## Education
 
@@ -39,3 +39,10 @@ B.S. of Data Science
 [[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week8%20facenet) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week9%20real%20time%20face%20detector)
 
 - Violence Recognition in elevators
+
+## Activities
+> DKU Chorus performed in Philharmonic orchestra concert
+
+> "End the period shame" organized by Campus Activity Board
+
+> Volunteered in Interspeech 2020
