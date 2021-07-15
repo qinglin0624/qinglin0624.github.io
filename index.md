@@ -14,7 +14,7 @@ B.S. of Data Science
 
 
 ## News
-> My paper "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (coauthor) is accepted by ICMI 2021
+> Paper "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (co-first author) is accepted by ICMI 2021
 
 > Our patent "An elevator abnormal behavior detection method based on video surveillance" is approved
 
