@@ -38,7 +38,13 @@ B.S. of Data Science
 - Real-time face detector <br>
 [[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week8%20facenet) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week9%20real%20time%20face%20detector)
 
-- Violence Recognition in elevators
+- Violence recognition in elevators
+
+- Fish migration prediction <br>
+[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/Brookekekeboom/fish-migration-prediction)
+
+- Covid-19 recognition using CT scans <br>
+[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/Brookekekeboom/COVID-19-Recognition-using-CT-Scans)
 
 ## Activities
 > DKU Chorus performed in Philharmonic orchestra concert
