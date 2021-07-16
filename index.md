@@ -24,7 +24,7 @@ B.S. of Data Science
 ## Projects
 
 - U-Net semantic segmentation on LIP dataset <br>
-[[PDF]](./another-page.html) [[Demo]](./Page-segmentation.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week4%20unet%20and%20LIP%20single%20person) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week5%20segment%20body%20parts)
+[[PDF]](./segmentation/report-of-segmentation.pdf) [[Demo]](./Page-segmentation.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week4%20unet%20and%20LIP%20single%20person) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week5%20segment%20body%20parts)
 
 - OpenPose in pytorch <br>
 [[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/Brookekekeboom/openpose-pytorch)
