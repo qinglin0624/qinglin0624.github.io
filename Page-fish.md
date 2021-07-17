@@ -8,9 +8,9 @@ layout: default
 ![imgdemo](./fish_migration/temperature.png)
 
 <center class = "half">
-<img src="https://github.com/qinglin0624/qinglin0624.github.io/blob/main/fish_migration/herring.png" alt="show" width="600" align = left> <img src="https://github.com/qinglin0624/qinglin0624.github.io/blob/main/segmentation/herring_local.gif" alt="show" width="300" align = right>
+<img src="https://github.com/qinglin860624/qinglin860624.github.io/blob/main/fish_migration/herring.png" width="650" align = left> <img src="https://github.com/qinglin860624/qinglin860624.github.io/blob/main/fish_migration/herring_local.gif" alt="show" width="250" align = right>
 </center>
 
 <center class = "half">
-<img src="https://github.com/qinglin0624/qinglin0624.github.io/blob/main/fish_migration/mackerel.png" alt="show" width="600" align = left> <img src="https://github.com/qinglin0624/qinglin0624.github.io/blob/main/segmentation/mackerel_local.gif" alt="show" width="300" align = right>
+<img src="https://github.com/qinglin860624/qinglin860624.github.io/blob/main/fish_migration/mackerel.png" width="650" align = left> <img src="https://github.com/qinglin860624/qinglin860624.github.io/blob/main/fish_migration/mackerel_local.gif" alt="show" width="250" align = right>
 </center>
