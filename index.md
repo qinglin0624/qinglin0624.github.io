@@ -41,7 +41,7 @@ B.S. of Data Science
 - Violence recognition in elevators
 
 - Fish migration prediction <br>
-[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/Brookekekeboom/fish-migration-prediction)
+[[PDF]](./another-page.html) [[Demo]](./Page-fish.html) [[Code]](https://github.com/Brookekekeboom/fish-migration-prediction)
 
 - Covid-19 recognition using CT scans <br>
 [[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/Brookekekeboom/COVID-19-Recognition-using-CT-Scans)
