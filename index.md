@@ -2,7 +2,7 @@
 
 Hello, I am currently an undergraduate in Duke Kunshan University, with my research under the supervision of [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). 
 
-My research interests include multi-modal behavior analysis, knowledge transfer, and affective computing. 
+My research interests include multimodal behavior analysis, affective computing, and knowledge transfer. 
 
 In my spare time I enjoy working and thinking about the societal impact side of my research. I had a great time working as an undergraduate peer tutor at DKU, and being a soprano at DKU Choir. I also enjoy running, playing the piano from time to time, and being an amateur badminton player outside work.
 
