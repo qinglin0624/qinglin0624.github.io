@@ -5,11 +5,16 @@ layout: default
 ## [Home](./)
 
 ## <center> Demo: facial expression recognition </center>
-<!-- ![imgdemo](./facial_expression/demo.png) -->
 
-<!-- ![demogif](https://github.com/qinglin860624/qinglin860624.github.io/blob/main/facial_expression/Rotating_earth_(large).gif) -->
-<img src="https://github.com/qinglin860624/qinglin860624.github.io/blob/main/facial_expression/Rotating_earth_(large).gif" alt="earth"/>
+### The ideal Zoom system
+<!-- ![imgdemo](./facial_expression/ideal.png) -->
+<center>
+<img src="./facial_expression/ideal.png" alt="ideal" width="600"/>
+  </center>
 
-<!-- <center class = "half">
-<img src="https://github.com/qinglin0624/qinglin0624.github.io/blob/main/segmentation/gif_demo1.gif" alt="show" width="450" align = left> <img src="https://github.com/qinglin0624/qinglin0624.github.io/blob/main/segmentation/gif_demo2.gif" alt="show" width="450" align = right>
-</center> -->
+### Demo
+<!-- ![ideal](./facial_expression/demo.png) -->
+<center>
+<img src="./facial_expression/demo.png" alt="demo" width="600"/>
+  </center>
+
