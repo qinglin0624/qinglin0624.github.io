@@ -14,9 +14,12 @@ B.S. of Data Science
 
 
 ## News
-> Paper "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (co-first author) is accepted by ICMI 2021
+> Paper "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (co-first author) is accepted by ICMI 2021 <br>
+> [[PDF]](./files/paper.pdf) [[Code]](https://github.com/Brookekekeboom/RGBP)
 
 > Our patent "An elevator abnormal behavior detection method based on video surveillance" is approved
+
+> Project Closing Presentation at KONE
 
 > SMIIP Lab league construction
 
