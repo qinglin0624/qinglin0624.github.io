@@ -34,13 +34,13 @@ B.S. of Data Science
 [[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/Brookekekeboom/openpose-pytorch)
 
 - MTCNN face detection <br>
-[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week6%20mtcnn%20face%20detection) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week7%20landmark)
+[[PDF]](./another-page.html) [[Demo]](./Page-MTCNN.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week6%20mtcnn%20face%20detection) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week7%20landmark)
 
 - Facial expression recognition <br>
 [[PDF]](./another-page.html) [[Demo]](./Page-emotion.html) [[Code]](https://github.com/Brookekekeboom/facial-expression-recognition)
 
 - Real-time face detector <br>
-[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week8%20facenet) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week9%20real%20time%20face%20detector)
+[[PDF]](./another-page.html) [[Demo]](./Page-f.html) [[Code P1]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week8%20facenet) [[Code P2]](https://github.com/Brookekekeboom/CV-pytorch/tree/master/week9%20real%20time%20face%20detector)
 
 - Violence recognition in elevators
 
