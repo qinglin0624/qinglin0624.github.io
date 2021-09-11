@@ -1,0 +1,290 @@
+[ {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "default",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "text-opacity" : 0.7058823529411765,
+      "border-color" : "rgb(204,204,204)",
+      "text-valign" : "top",
+      "text-halign" : "center",
+      "width" : 25.0,
+      "background-opacity" : 1.0,
+      "height" : 25.0,
+      "font-size" : 11,
+      "font-family" : "Calibri",
+      "font-weight" : "normal",
+      "border-width" : 0.0,
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "background-color" : "rgb(153,153,255)",
+      "color" : "rgb(0,0,0)",
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Singapore']",
+    "css" : {
+      "background-color" : "rgb(51,255,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Hong Kong']",
+    "css" : {
+      "background-color" : "rgb(0,102,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Thailand']",
+    "css" : {
+      "background-color" : "rgb(204,51,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Sweden']",
+    "css" : {
+      "background-color" : "rgb(0,204,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'China']",
+    "css" : {
+      "background-color" : "rgb(204,0,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Guadeloupe']",
+    "css" : {
+      "background-color" : "rgb(204,0,153)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Ireland']",
+    "css" : {
+      "background-color" : "rgb(102,153,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Russian Federation (the)']",
+    "css" : {
+      "background-color" : "rgb(51,0,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'France']",
+    "css" : {
+      "background-color" : "rgb(255,102,153)"
+    }
+  }, {
+    "selector" : "node[country1 = 'United Kingdom of Great Britain and Northern Ireland (the)']",
+    "css" : {
+      "background-color" : "rgb(153,0,153)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Argentina']",
+    "css" : {
+      "background-color" : "rgb(204,51,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'United States of America (the)']",
+    "css" : {
+      "background-color" : "rgb(102,0,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Japan']",
+    "css" : {
+      "background-color" : "rgb(255,204,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Bahrain']",
+    "css" : {
+      "background-color" : "rgb(153,51,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Switzerland']",
+    "css" : {
+      "background-color" : "rgb(153,255,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'India']",
+    "css" : {
+      "background-color" : "rgb(0,102,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Netherlands (the)']",
+    "css" : {
+      "background-color" : "rgb(102,0,102)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Spain']",
+    "css" : {
+      "background-color" : "rgb(0,51,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'New Zealand']",
+    "css" : {
+      "background-color" : "rgb(255,0,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Canada']",
+    "css" : {
+      "background-color" : "rgb(204,102,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Norway']",
+    "css" : {
+      "background-color" : "rgb(0,153,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Finland']",
+    "css" : {
+      "background-color" : "rgb(153,153,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Denmark']",
+    "css" : {
+      "background-color" : "rgb(153,0,153)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Italy']",
+    "css" : {
+      "background-color" : "rgb(204,204,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Mexico']",
+    "css" : {
+      "background-color" : "rgb(204,0,51)"
+    }
+  }, {
+    "selector" : "node[country1 = 'South Africa']",
+    "css" : {
+      "background-color" : "rgb(51,102,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Israel']",
+    "css" : {
+      "background-color" : "rgb(204,153,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Australia']",
+    "css" : {
+      "background-color" : "rgb(102,0,255)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Germany']",
+    "css" : {
+      "background-color" : "rgb(102,0,204)"
+    }
+  }, {
+    "selector" : "node[country1 = 'Estonia']",
+    "css" : {
+      "background-color" : "rgb(255,102,204)"
+    }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(51,0,255)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "content" : "",
+      "line-style" : "solid",
+      "text-opacity" : 0.0,
+      "target-arrow-shape" : "none",
+      "color" : "rgb(255,255,255)",
+      "source-arrow-color" : "rgb(0,0,0)",
+      "width" : 1.0,
+      "font-size" : 13,
+      "line-color" : "rgb(102,51,255)",
+      "opacity" : 1.0,
+      "source-arrow-shape" : "none",
+      "target-arrow-color" : "rgb(0,0,0)",
+      "font-family" : "Dialog.plain",
+      "font-weight" : "normal"
+    }
+  }, {
+    "selector" : "edge[times > 80]",
+    "css" : {
+      "line-color" : "rgb(68,1,84)"
+    }
+  }, {
+    "selector" : "edge[times = 80]",
+    "css" : {
+      "line-color" : "rgb(204,0,102)"
+    }
+  }, {
+    "selector" : "edge[times > 47.50267366][times < 80]",
+    "css" : {
+      "line-color" : "mapData(times,47.50267366,80,rgb(153,57,205),rgb(204,0,102))"
+    }
+  }, {
+    "selector" : "edge[times > 21][times < 47.50267366]",
+    "css" : {
+      "line-color" : "mapData(times,21,47.50267366,rgb(102,102,255),rgb(153,57,205))"
+    }
+  }, {
+    "selector" : "edge[times = 21]",
+    "css" : {
+      "line-color" : "rgb(102,102,255)"
+    }
+  }, {
+    "selector" : "edge[times < 21]",
+    "css" : {
+      "line-color" : "rgb(253,231,37)"
+    }
+  }, {
+    "selector" : "edge[times > 60]",
+    "css" : {
+      "width" : 1.0
+    }
+  }, {
+    "selector" : "edge[times = 60]",
+    "css" : {
+      "width" : 25.32392251586914
+    }
+  }, {
+    "selector" : "edge[times > 51.90540666][times < 60]",
+    "css" : {
+      "width" : "mapData(times,51.90540666,60,4.170260620117188,25.32392251586914)"
+    }
+  }, {
+    "selector" : "edge[times > 0.1][times < 51.90540666]",
+    "css" : {
+      "width" : "mapData(times,0.1,51.90540666,0.020479999542236327,4.170260620117188)"
+    }
+  }, {
+    "selector" : "edge[times = 0.1]",
+    "css" : {
+      "width" : 0.020479999542236327
+    }
+  }, {
+    "selector" : "edge[times < 0.1]",
+    "css" : {
+      "width" : 1.0
+    }
+  }, {
+    "selector" : "edge[times > 335]",
+    "css" : {
+      "opacity" : 0.00392156862745098
+    }
+  }, {
+    "selector" : "edge[times = 335]",
+    "css" : {
+      "opacity" : 0.0196078431372549
+    }
+  }, {
+    "selector" : "edge[times > 21][times < 335]",
+    "css" : {
+      "opacity" : "mapData(times,21,335,35,5)"
+    }
+  }, {
+    "selector" : "edge[times = 21]",
+    "css" : {
+      "opacity" : 0.13725490196078433
+    }
+  }, {
+    "selector" : "edge[times < 21]",
+    "css" : {
+      "opacity" : 0.00392156862745098
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+} ]
