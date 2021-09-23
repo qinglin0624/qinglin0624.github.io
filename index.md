@@ -15,7 +15,7 @@ B.S. of Data Science
 
 ## News
 > Paper "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (co-first author) is accepted by ICMI 2021 <br>
-> [[PDF]](./files/paper.pdf) [[Code]](https://github.com/Brookekekeboom/RGBP)
+> [[PDF]](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICMI21/30/03e18b8f-fc49-11eb-b613-166a08e17233/OUT/icmi21-30.pdf) [[Code]](https://github.com/Brookekekeboom/RGBP)
 
 > Our patent "An abnormal activity detection method and system based on video monitoring" is under review <br>
 > [[PDF]](./files/patent.pdf)
