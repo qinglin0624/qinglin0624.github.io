@@ -15,14 +15,14 @@ B.S. of Data Science
 
 ## News
 > Paper "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (co-first author) is accepted by ICMI 2021 <br>
-> [[PDF]](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICMI21/30/03e18b8f-fc49-11eb-b613-166a08e17233/OUT/icmi21-30.pdf) [[Code]](https://github.com/brookekekeboom/RGBP)
+> [[PDF]](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICMI21/30/03e18b8f-fc49-11eb-b613-166a08e17233/OUT/icmi21-30.pdf) [[Code]](https://github.com/brookekekeboom/RGBP) [[Poster]](https://) [[Video]](https://)
 
 > Our patent "An abnormal activity detection method and system based on video monitoring" is under review <br>
 > [[PDF]](./files/patent.pdf)
 
-> Project Closing Presentation at KONE
+> Project Closing Presentation at KONE [>](./blogs.html)
 
-> SMIIP Lab league construction
+> SMIIP Lab league construction [>](./blogs.html)
 
 
 ## Projects
@@ -42,17 +42,15 @@ B.S. of Data Science
 - Real-time face detector <br>
 [[PDF]](./another-page.html) [[Demo]](./Page-f.html) [[Code P1]](https://github.com/brookekekeboom/CV-pytorch/tree/master/week8%20facenet) [[Code P2]](https://github.com/brookekekeboom/CV-pytorch/tree/master/week9%20real%20time%20face%20detector)
 
-- Violence recognition in elevators
-
 - Fish migration prediction <br>
 [[PDF]](./another-page.html) [[Demo]](./Page-fish.html) [[Code]](https://github.com/brookekekeboom/fish-migration-prediction)
 
 - Covid-19 recognition using CT scans <br>
-[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/brookekekeboom/COVID-19-Recognition-using-CT-Scans)
+[[PDF]](./another-page.html) [[Code]](https://github.com/brookekekeboom/COVID-19-Recognition-using-CT-Scans)
 
 ## Activities
-> DKU Chorus performed in Philharmonic orchestra concert
+> DKU Chorus performed in Philharmonic orchestra concert [>](./blogs.html)
 
-> "End the period shame" organized by Campus Activity Board
+> "End the period shame" organized by Campus Activity Board [>](./blogs.html)
 
-> Volunteered in Interspeech 2020
+> Volunteered in Interspeech 2020 [>](https://dukekunshan.edu.cn/en/news/smiip-lab-triumphs-online-interspeech-2020)
