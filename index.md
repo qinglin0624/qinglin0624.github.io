@@ -53,4 +53,4 @@ B.S. of Data Science
 
 > "End the period shame" organized by Campus Activity Board [>](./blogs.html)
 
-> Volunteered in Interspeech 2020 <img src="./files/arrow.svg" width="20" align = left href=https://dukekunshan.edu.cn/en/news/smiip-lab-triumphs-online-interspeech-2020>
+> Volunteered in Interspeech 2020 <img src="./files/arrow.svg" width="30" align=center href=https://dukekunshan.edu.cn/en/news/smiip-lab-triumphs-online-interspeech-2020>
