@@ -20,9 +20,9 @@ B.S. of Data Science
 > Our patent "An abnormal activity detection method and system based on video monitoring" is under review <br>
 > [[PDF]](./files/patent.pdf)
 
-> Project Closing Presentation at KONE [>](./blogs.html)
+> Project Closing Presentation at KONE <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
-> SMIIP Lab league construction [>](./blogs.html)
+> SMIIP Lab league construction <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
 
 ## Projects
@@ -42,11 +42,12 @@ B.S. of Data Science
 - Real-time face detector <br>
 [[PDF]](./another-page.html) [[Demo]](./Page-f.html) [[Code P1]](https://github.com/brookekekeboom/CV-pytorch/tree/master/week8%20facenet) [[Code P2]](https://github.com/brookekekeboom/CV-pytorch/tree/master/week9%20real%20time%20face%20detector)
 
+- Covid-19 recognition using CT scans <br>
+[[PDF]](./another-page.html) [[Code]](https://github.com/brookekekeboom/COVID-19-Recognition-using-CT-Scans)
+
 - Fish migration prediction <br>
 [[PDF]](./another-page.html) [[Demo]](./Page-fish.html) [[Code]](https://github.com/brookekekeboom/fish-migration-prediction)
 
-- Covid-19 recognition using CT scans <br>
-[[PDF]](./another-page.html) [[Code]](https://github.com/brookekekeboom/COVID-19-Recognition-using-CT-Scans)
 
 ## Activities
 > DKU Chorus performed in Philharmonic orchestra concert <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
