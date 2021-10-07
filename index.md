@@ -22,7 +22,6 @@ B.S. of Data Science
 
 > Project Closing Presentation at KONE <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
-> SMIIP Lab league construction <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
 
 ## Projects
@@ -51,6 +50,8 @@ B.S. of Data Science
 
 ## Activities
 > DKU Chorus performed in Philharmonic orchestra concert <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
+
+> SMIIP Lab league construction <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
 > "End the period shame" organized by Campus Activity Board <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
