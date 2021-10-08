@@ -4,7 +4,7 @@ Hello, I am currently an undergraduate in Duke Kunshan University, with my resea
 
 My research interests include affective computing, multimodal behavior analysis, and knowledge transfer. 
 
-In my spare time I enjoy working and thinking about the societal impact side of my research. I had a great time working as an undergraduate peer tutor at DKU, and being a soprano at DKU Choir. I also enjoy running, playing the piano from time to time, and being an amateur badminton player outside work.
+In my spare time I enjoy working and thinking about the societal impact side of my research. I had a great time working as an undergraduate peer tutor at DKU, and being a soprano at DKU Choir. I also enjoy watching debates, playing the piano from time to time, and being an amateur badminton player outside work.
 
 ## Education
 
@@ -15,12 +15,12 @@ B.S. of Data Science
 
 ## News
 > Paper "Cross-modal Assisted Training for Abnormal Event Recognition in Elevators" (co-first author) is accepted by ICMI 2021 <br>
-> [[PDF]](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICMI21/30/03e18b8f-fc49-11eb-b613-166a08e17233/OUT/icmi21-30.pdf) [[Code]](https://github.com/qinglin0624/RGBP) [[Poster]](https://) [[Video]](https://)
+> [[PDF]](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICMI21/30/03e18b8f-fc49-11eb-b613-166a08e17233/OUT/icmi21-30.pdf) [[Code]](https://github.com/qinglin0624/RGBP)
 
 > Our patent "An abnormal activity detection method and system based on video monitoring" is under review <br>
-> [[PDF]](./files/patent.pdf)
+> [[PDF]](./files/patent.pdf) (in Chinese)
 
-> Project Closing Presentation at KONE <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
+> Project Closing Presentation at KONE<a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
 
 
@@ -49,10 +49,10 @@ B.S. of Data Science
 
 
 ## Activities
-> DKU Chorus performed in Philharmonic orchestra concert <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
+> DKU Chorus performed in Philharmonic orchestra concert<a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
-> SMIIP Lab league construction <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
+> SMIIP Lab league construction<a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
-> "End the period shame" organized by Campus Activity Board <a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
+> "End the period shame" organized by Campus Activity Board<a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
 > Volunteered in Interspeech 2020 <a href="https://dukekunshan.edu.cn/en/news/smiip-lab-triumphs-online-interspeech-2020"><img src="./files/arrow.svg" width="40" align=center></a>
