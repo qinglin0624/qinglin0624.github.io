@@ -20,7 +20,7 @@ B.S. of Data Science
 > Our patent "An abnormal activity detection method and system based on video monitoring" is under review <br>
 > [[PDF]](./files/patent.pdf) (in Chinese)
 
-> Project Closing Presentation at KONE<a href="./Page-blogs.html"><img src="./files/arrow.svg" width="35" align=center></a>
+> Project Closing Presentation at KONE<a href="./Page-blogs.html#kp"><img src="./files/arrow.svg" width="35" align=center></a>
 
 
 
@@ -48,15 +48,15 @@ B.S. of Data Science
 [[PDF]](./fish_migration/2013644.pdf) [[Demo]](./Page-fish.html) [[Code]](https://github.com/qinglin0624/fish-migration-prediction)
 
 - Visualization of bioRxiv and coursera <br>
-bioRxiv: [[PDF]](./vis/biorxiv.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-research-on-Biorxiv) 
+bioRxiv: [[PDF]](./vis/biorxiv.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-research-on-Biorxiv)<br>
 coursera: [[PDF]](./vis/coursera.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-courses-on-coursera) 
 
 
 ## Activities
-> DKU Chorus performed in Philharmonic orchestra concert<a href="./Page-blogs.html"><img src="./files/arrow.svg" width="35" align=center></a>
+> DKU Chorus performed in Philharmonic orchestra concert<a href="./Page-blogs.html#concert"><img src="./files/arrow.svg" width="35" align=center></a>
 
-> SMIIP Lab league construction<a href="./Page-blogs.html"><img src="./files/arrow.svg" width="35" align=center></a>
+> SMIIP Lab league construction<a href="./Page-blogs.html#lc"><img src="./files/arrow.svg" width="35" align=center></a>
 
-> "End the period shame" organized by Campus Activity Board<a href="./Page-blogs.html/#ps"><img src="./files/arrow.svg" width="35" align=center></a>
+> "End the period shame" organized by Campus Activity Board<a href="./Page-blogs.html#ps"><img src="./files/arrow.svg" width="35" align=center></a>
 
 > Volunteered in Interspeech 2020 <a href="https://dukekunshan.edu.cn/en/news/smiip-lab-triumphs-online-interspeech-2020"><img src="./files/arrow.svg" width="35" align=center></a>
