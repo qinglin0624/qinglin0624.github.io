@@ -33,7 +33,7 @@ B.S. of Data Science
 [[PDF]](./face_detector/mtcnn_report.pdf) [[Code]](https://github.com/qinglin0624/CV-Pytorch/tree/master/week4%20mtcnn%20face%20detection)
 
 - Real-time face recognizer <br>
-[[PDF]](./face_detector/recognizer_report.pdf) [[Demo]](./Page-faceRecognizer.html) [[Code]](https://github.com/qinglin0624/CV-Pytorch/tree/master/week5%20realtime%20face%20detector/Step1-facenet)
+[[PDF]](./face_detector/recognizer_report.pdf) [[Demo]](./Page-faceRecognizer.html) [[Code]](https://github.com/qinglin0624/CV-Pytorch/tree/master/week5%20realtime%20face%20detector)
 
 - Facial expression recognition <br>
 [[Poster]](./facial_expression/emotion_poster.pdf) [[Demo]](./Page-emotion.html) [[Code]](https://github.com/qinglin0624/facial-expression-recognition)
