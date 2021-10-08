@@ -20,8 +20,7 @@ B.S. of Data Science
 > Our patent "An abnormal activity detection method and system based on video monitoring" is under review <br>
 > [[PDF]](./files/patent.pdf) (in Chinese)
 
-> Project Closing Presentation at KONE<a href="./Page-blogs.html#kp"><img src="./files/arrow.svg" width="35" align=center></a>
-
+> Project Closing Presentation at KONE<a href="http://htmlpreview.github.io/?https://github.com/qinglin0624/qinglin0624.github.io/blob/main/files/gallery/index.html"><img src="./files/arrow.svg" width="35" align=center></a>
 
 
 ## Projects
@@ -52,11 +51,11 @@ bioRxiv: [[PDF]](./vis/biorxiv.pdf) [[Code]](https://github.com/qinglin0624/anal
 coursera: [[PDF]](./vis/coursera.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-courses-on-coursera) 
 
 
-## Activities
-> DKU Chorus performed in Philharmonic orchestra concert<a href="./Page-blogs.html#concert"><img src="./files/arrow.svg" width="35" align=center></a>
+## Activities <a href="http://htmlpreview.github.io/?https://github.com/qinglin0624/qinglin0624.github.io/blob/main/files/gallery/index.html"><img src="./files/arrow.svg" width="35" align=center></a>
+> DKU Chorus performed in Philharmonic orchestra concert
 
-> SMIIP Lab league construction<a href="./Page-blogs.html#lc"><img src="./files/arrow.svg" width="35" align=center></a>
+> SMIIP Lab league construction
 
-> "End the period shame" organized by Campus Activity Board<a href="./Page-blogs.html#ps"><img src="./files/arrow.svg" width="35" align=center></a>
+> "End the period shame" organized by Campus Activity Board
 
-> Volunteered in Interspeech 2020 <a href="./Page-blogs.html#is"><img src="./files/arrow.svg" width="35" align=center></a>
+> Volunteered in Interspeech 2020
