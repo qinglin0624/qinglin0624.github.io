@@ -14,7 +14,7 @@ Herring migration
 
 <center class = "half">
 <img src="./fish_migration/herring.png" width="325" align = left> <img src="./fish_migration/herring_local.gif" alt="herring_gif" width="150" align = right>
-</center>
+</center><br>
 
 Mackerel migration
 
