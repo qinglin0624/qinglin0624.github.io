@@ -39,7 +39,7 @@ B.S. of Data Science
 [[Poster]](./facial_expression/emotion_poster.pdf) [[Demo]](./Page-emotion.html) [[Code]](https://github.com/qinglin0624/facial-expression-recognition)
 
 - OpenPose in pytorch <br>
-[[Slides]](./openpose/slides.pdf) [[Demo]](./Page-openpose.html) [[Code]](https://github.com/qinglin0624/openpose-pytorch)
+[[Demo]](./Page-openpose.html) [[Code]](https://github.com/qinglin0624/openpose-pytorch)
 
 - Covid-19 recognition using CT scans <br>
 [[Code]](https://github.com/qinglin0624/COVID-19-recognition-using-CT-scans)
