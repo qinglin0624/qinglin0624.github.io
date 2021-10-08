@@ -59,4 +59,4 @@ coursera: [[PDF]](./vis/coursera.pdf) [[Code]](https://github.com/qinglin0624/an
 
 > "End the period shame" organized by Campus Activity Board<a href="./Page-blogs.html#ps"><img src="./files/arrow.svg" width="35" align=center></a>
 
-> Volunteered in Interspeech 2020 <a href="https://dukekunshan.edu.cn/en/news/smiip-lab-triumphs-online-interspeech-2020"><img src="./files/arrow.svg" width="35" align=center></a>
+> Volunteered in Interspeech 2020 <a href="./Page-blogs.html#is"><img src="./files/arrow.svg" width="35" align=center></a>
