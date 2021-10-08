@@ -57,6 +57,6 @@ coursera: [[PDF]](./vis/coursera.pdf) [[Code]](https://github.com/qinglin0624/an
 
 > SMIIP Lab league construction<a href="./blogs.html"><img src="./files/arrow.svg" width="40" align=center></a>
 
-> "End the period shame" organized by Campus Activity Board<a href="./blogs.html/#imgdemo"><img src="./files/arrow.svg" width="40" align=center></a>
+> "End the period shame" organized by Campus Activity Board<a href="./blogs.html/#ps"><img src="./files/arrow.svg" width="40" align=center></a>
 
 > Volunteered in Interspeech 2020 <a href="https://dukekunshan.edu.cn/en/news/smiip-lab-triumphs-online-interspeech-2020"><img src="./files/arrow.svg" width="40" align=center></a>
