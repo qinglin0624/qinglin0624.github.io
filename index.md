@@ -29,23 +29,23 @@ B.S. of Data Science
 - U-Net semantic segmentation on LIP dataset <br>
 [[PDF]](./segmentation/segmentation_report.pdf) [[Demo]](./Page-segmentation.html) [[Code]](https://github.com/qinglin0624/CV-Pytorch/tree/master/week3%20unet%20semantic%20segmentation)
 
-- OpenPose in pytorch <br>
-[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/qinglin0624/openpose-pytorch)
-
 - MTCNN face detection <br>
 [[PDF]](./face_detector/mtcnn_report.pdf) [[Demo]](./Page-MTCNN.html) [[Code]](https://github.com/qinglin0624/CV-Pytorch/tree/master/week4%20mtcnn%20face%20detection)
+
+- Real-time face recognizer <br>
+[[PDF]](./face_detector/recognizer_report.pdf) [[Demo]](./Page-f.html) [[Code]](https://github.com/qinglin0624/CV-Pytorch/tree/master/week5%20realtime%20face%20detector/Step1-facenet)
 
 - Facial expression recognition <br>
 [[Poster]](./facial_expression/emotion_poster.pdf) [[Demo]](./Page-emotion.html) [[Code]](https://github.com/qinglin0624/facial-expression-recognition)
 
-- Real-time face detector <br>
-[[PDF]](./face_detector/detector_report.pdf) [[Demo]](./Page-f.html) [[Code]](https://github.com/qinglin0624/CV-Pytorch/tree/master/week5%20realtime%20face%20detector/Step1-facenet)
+- OpenPose in pytorch <br>
+[[PDF]](./another-page.html) [[Demo]](./another-page.html) [[Code]](https://github.com/qinglin0624/openpose-pytorch)
 
 - Covid-19 recognition using CT scans <br>
-[[PDF]](./another-page.html) [[Code]](https://github.com/qinglin0624/COVID-19-recognition-using-CT-scans)
+[[Code]](https://github.com/qinglin0624/COVID-19-recognition-using-CT-scans)
 
 - Fish migration prediction <br>
-[[PDF]](./another-page.html) [[Demo]](./Page-fish.html) [[Code]](https://github.com/qinglin0624/fish-migration-prediction)
+[[PDF]](./fish_migration/2013644.pdf) [[Demo]](./Page-fish.html) [[Code]](https://github.com/qinglin0624/fish-migration-prediction)
 
 
 ## Activities
