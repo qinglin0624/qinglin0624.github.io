@@ -54,7 +54,7 @@ coursera: [[PDF]](./vis/coursera.pdf) [[Code]](https://github.com/qinglin0624/an
 ## Activities <a href="http://htmlpreview.github.io/?https://github.com/qinglin0624/qinglin0624.github.io/blob/main/files/gallery/index.html"><img src="./files/arrow.svg" width="35" align=center></a>
 > DKU Chorus performed in Philharmonic orchestra concert
 
-> SMIIP Lab league construction
+> SMIIP Lab's dinner
 
 > "End the period shame" organized by Campus Activity Board
 
