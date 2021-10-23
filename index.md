@@ -48,7 +48,7 @@ B.S. of Data Science
 
 - Visualization of bioRxiv and coursera <br>
 bioRxiv: [[PDF]](./vis/biorxiv.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-research-on-Biorxiv)<br>
-coursera: [[PDF]](./vis/coursera.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-courses-on-coursera) 
+coursera: [[PDF]](./vis/poster.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-courses-on-coursera) 
 
 
 ## Activities <a href="http://htmlpreview.github.io/?https://github.com/qinglin0624/qinglin0624.github.io/blob/main/files/gallery/index.html"><img src="./files/arrow.svg" width="35" align=center></a>
