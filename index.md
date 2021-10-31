@@ -18,7 +18,7 @@ B.S. of Data Science
 > [[PDF]](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICMI21/30/03e18b8f-fc49-11eb-b613-166a08e17233/OUT/icmi21-30.pdf) [[Video]](https://www.youtube.com/watch?v=Xuu59DlH8es) [[Code]](https://github.com/qinglin0624/RGBP)
 
 > Our patent "An abnormal activity detection method and system based on video monitoring" is under review <br>
-> [[PDF]](./files/patent.pdf) (in Chinese)
+> [[Link]](https://patents.google.com/patent/CN113269111A/zh?oq=CN+113269111+A)
 
 > Project Closing Presentation at KONE<a href="http://htmlpreview.github.io/?https://github.com/qinglin0624/qinglin0624.github.io/blob/main/files/gallery/index.html"><img src="./files/arrow.svg" width="35" align=center></a>
 
