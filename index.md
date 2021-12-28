@@ -8,7 +8,7 @@ In my spare time, I enjoy reading and thinking about the societal impact side of
 ## Education
 
 __Duke Kunshan University / Duke University__   <br>
-`Suzhou, China (2018-2022) ` <br>
+`Kunshan, China / Durham, NC (2018-2022) ` <br>
 B.S. of Data Science
 
 
