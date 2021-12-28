@@ -1,4 +1,4 @@
-## Welcome to Xuchen Gong's page
+## Welcome to Brooke Gong's page
 
 Hello, I am currently a senior at Duke Kunshan University, with my research under the supervision of [Prof. Ming Li](https://scholars.duke.edu/person/MingLi).<br>
 I am studying machine learning and multimodal behavioral signal processing as well as their application in mental disorder diagnosis and intervention.
