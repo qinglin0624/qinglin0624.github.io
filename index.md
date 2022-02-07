@@ -1,6 +1,6 @@
 ## Welcome to Brooke Gong's page
 
-Hello, I am currently a senior at Duke Kunshan University, with my research supervised by [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). I am studying machine learning and multimodal behavioral signal processing as well as their applications to mental disorder diagnosis and intervention.
+Hello, I am currently a senior at Duke Kunshan University with my research supervised by [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). I am studying machine learning and multimodal behavioral signal processing as well as their applications to mental disorder diagnosis and intervention.
 
 In my spare time, I enjoy reading and thinking about the societal impacts of my research. I had a great time working as a peer tutor at DKU and being a soprano at DKU Choir. I also enjoy watching philosophical debates, playing the piano from time to time, and being an amateur badminton player outside work.
 
