@@ -48,6 +48,13 @@ B.S. of Data Science
 bioRxiv: [[PDF]](./vis/biorxiv.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-research-on-Biorxiv)<br>
 coursera: [[PDF]](./vis/coursera_report.pdf) [[Poster]](./vis/poster.pdf) [[Code]](https://github.com/qinglin0624/analysis-of-courses-on-coursera) 
 
+## Teaching
+
+- COMPSCI 101 - Introduction to Computer Science <br>
+*Peer tutor*, DKU Spring 2020, Spring 2021
+
+- GLOCHALL 201 - Global Challenges in Science, Technology, and Health <br>
+*Peer tutor*, DKU Fall 2019
 
 ## Activities <a href="http://htmlpreview.github.io/?https://github.com/qinglin0624/qinglin0624.github.io/blob/main/files/gallery/index.html"><img src="./files/arrow.svg" width="35" align=center></a>
 > DKU Chorus performed in Philharmonic orchestra concert
